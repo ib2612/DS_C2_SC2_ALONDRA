@@ -5,3 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ib2612/DS_C2_SC2_ALONDRA.git
 git push -u origin main
+git add DS_C2_SC2_ALONDRA.ipynb
+git commit -m \"Subir notebook de Google Colab a GitHub\"
+git remote add origin https://github.com/ib2612/DS_C2_SC2_ALONDRA.git
+git push -u origin master
