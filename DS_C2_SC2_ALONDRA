@@ -1,0 +1,7 @@
+echo "# DS_C2_SC2_ALONDRA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ib2612/DS_C2_SC2_ALONDRA.git
+git push -u origin main
